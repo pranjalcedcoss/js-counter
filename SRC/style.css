@@ -1,0 +1,21 @@
+div{
+    display: flex;
+    
+    text-align: center;
+    margin: auto;
+    width: max-content;
+    border: lightgray 1px solid;
+    border-radius: 20%;
+    margin-top: 20%;
+   
+}
+.counter-minus{width: 100px;background-color: lightgrey; border-radius: 20%;font-size: 3rem;}
+
+
+.counter-plus{width: 100px;background-color: lightgray; border-radius: 20%;font-size: 3rem;}
+
+.counter-display{width: 100px;
+    
+    ;}
+
+
